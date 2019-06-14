@@ -1,0 +1,1000 @@
+item {
+  id: 1
+  name: '1_puffed_food'
+}
+
+item {
+  id: 2
+  name: '2_puffed_food'
+}
+
+item {
+  id: 3
+  name: '3_puffed_food'
+}
+
+item {
+  id: 4
+  name: '4_puffed_food'
+}
+
+item {
+  id: 5
+  name: '5_puffed_food'
+}
+
+item {
+  id: 6
+  name: '6_puffed_food'
+}
+
+item {
+  id: 7
+  name: '7_puffed_food'
+}
+
+item {
+  id: 8
+  name: '8_puffed_food'
+}
+
+item {
+  id: 9
+  name: '9_puffed_food'
+}
+
+item {
+  id: 10
+  name: '10_puffed_food'
+}
+
+item {
+  id: 11
+  name: '11_puffed_food'
+}
+
+item {
+  id: 12
+  name: '12_puffed_food'
+}
+
+item {
+  id: 13
+  name: '13_dried_fruit'
+}
+
+item {
+  id: 14
+  name: '14_dried_fruit'
+}
+
+item {
+  id: 15
+  name: '15_dried_fruit'
+}
+
+item {
+  id: 16
+  name: '16_dried_fruit'
+}
+
+item {
+  id: 17
+  name: '17_dried_fruit'
+}
+
+item {
+  id: 18
+  name: '18_dried_fruit'
+}
+
+item {
+  id: 19
+  name: '19_dried_fruit'
+}
+
+item {
+  id: 20
+  name: '20_dried_fruit'
+}
+
+item {
+  id: 21
+  name: '21_dried_fruit'
+}
+
+item {
+  id: 22
+  name: '22_dried_food'
+}
+
+item {
+  id: 23
+  name: '23_dried_food'
+}
+
+item {
+  id: 24
+  name: '24_dried_food'
+}
+
+item {
+  id: 25
+  name: '25_dried_food'
+}
+
+item {
+  id: 26
+  name: '26_dried_food'
+}
+
+item {
+  id: 27
+  name: '27_dried_food'
+}
+
+item {
+  id: 28
+  name: '28_dried_food'
+}
+
+item {
+  id: 29
+  name: '29_dried_food'
+}
+
+item {
+  id: 30
+  name: '30_dried_food'
+}
+
+item {
+  id: 31
+  name: '31_instant_drink'
+}
+
+item {
+  id: 32
+  name: '32_instant_drink'
+}
+
+item {
+  id: 33
+  name: '33_instant_drink'
+}
+
+item {
+  id: 34
+  name: '34_instant_drink'
+}
+
+item {
+  id: 35
+  name: '35_instant_drink'
+}
+
+item {
+  id: 36
+  name: '36_instant_drink'
+}
+
+item {
+  id: 37
+  name: '37_instant_drink'
+}
+
+item {
+  id: 38
+  name: '38_instant_drink'
+}
+
+item {
+  id: 39
+  name: '39_instant_drink'
+}
+
+item {
+  id: 40
+  name: '40_instant_drink'
+}
+
+item {
+  id: 41
+  name: '41_instant_drink'
+}
+
+item {
+  id: 42
+  name: '42_instant_noodles'
+}
+
+item {
+  id: 43
+  name: '43_instant_noodles'
+}
+
+item {
+  id: 44
+  name: '44_instant_noodles'
+}
+
+item {
+  id: 45
+  name: '45_instant_noodles'
+}
+
+item {
+  id: 46
+  name: '46_instant_noodles'
+}
+
+item {
+  id: 47
+  name: '47_instant_noodles'
+}
+
+item {
+  id: 48
+  name: '48_instant_noodles'
+}
+
+item {
+  id: 49
+  name: '49_instant_noodles'
+}
+
+item {
+  id: 50
+  name: '50_instant_noodles'
+}
+
+item {
+  id: 51
+  name: '51_instant_noodles'
+}
+
+item {
+  id: 52
+  name: '52_instant_noodles'
+}
+
+item {
+  id: 53
+  name: '53_instant_noodles'
+}
+
+item {
+  id: 54
+  name: '54_dessert'
+}
+
+item {
+  id: 55
+  name: '55_dessert'
+}
+
+item {
+  id: 56
+  name: '56_dessert'
+}
+
+item {
+  id: 57
+  name: '57_dessert'
+}
+
+item {
+  id: 58
+  name: '58_dessert'
+}
+
+item {
+  id: 59
+  name: '59_dessert'
+}
+
+item {
+  id: 60
+  name: '60_dessert'
+}
+
+item {
+  id: 61
+  name: '61_dessert'
+}
+
+item {
+  id: 62
+  name: '62_dessert'
+}
+
+item {
+  id: 63
+  name: '63_dessert'
+}
+
+item {
+  id: 64
+  name: '64_dessert'
+}
+
+item {
+  id: 65
+  name: '65_dessert'
+}
+
+item {
+  id: 66
+  name: '66_dessert'
+}
+
+item {
+  id: 67
+  name: '67_dessert'
+}
+
+item {
+  id: 68
+  name: '68_dessert'
+}
+
+item {
+  id: 69
+  name: '69_dessert'
+}
+
+item {
+  id: 70
+  name: '70_dessert'
+}
+
+item {
+  id: 71
+  name: '71_drink'
+}
+
+item {
+  id: 72
+  name: '72_drink'
+}
+
+item {
+  id: 73
+  name: '73_drink'
+}
+
+item {
+  id: 74
+  name: '74_drink'
+}
+
+item {
+  id: 75
+  name: '75_drink'
+}
+
+item {
+  id: 76
+  name: '76_drink'
+}
+
+item {
+  id: 77
+  name: '77_drink'
+}
+
+item {
+  id: 78
+  name: '78_drink'
+}
+
+item {
+  id: 79
+  name: '79_alcohol'
+}
+
+item {
+  id: 80
+  name: '80_alcohol'
+}
+
+item {
+  id: 81
+  name: '81_drink'
+}
+
+item {
+  id: 82
+  name: '82_drink'
+}
+
+item {
+  id: 83
+  name: '83_drink'
+}
+
+item {
+  id: 84
+  name: '84_drink'
+}
+
+item {
+  id: 85
+  name: '85_drink'
+}
+
+item {
+  id: 86
+  name: '86_drink'
+}
+
+item {
+  id: 87
+  name: '87_drink'
+}
+
+item {
+  id: 88
+  name: '88_alcohol'
+}
+
+item {
+  id: 89
+  name: '89_alcohol'
+}
+
+item {
+  id: 90
+  name: '90_alcohol'
+}
+
+item {
+  id: 91
+  name: '91_alcohol'
+}
+
+item {
+  id: 92
+  name: '92_alcohol'
+}
+
+item {
+  id: 93
+  name: '93_alcohol'
+}
+
+item {
+  id: 94
+  name: '94_alcohol'
+}
+
+item {
+  id: 95
+  name: '95_alcohol'
+}
+
+item {
+  id: 96
+  name: '96_alcohol'
+}
+
+item {
+  id: 97
+  name: '97_milk'
+}
+
+item {
+  id: 98
+  name: '98_milk'
+}
+
+item {
+  id: 99
+  name: '99_milk'
+}
+
+item {
+  id: 100
+  name: '100_milk'
+}
+
+item {
+  id: 101
+  name: '101_milk'
+}
+
+item {
+  id: 102
+  name: '102_milk'
+}
+
+item {
+  id: 103
+  name: '103_milk'
+}
+
+item {
+  id: 104
+  name: '104_milk'
+}
+
+item {
+  id: 105
+  name: '105_milk'
+}
+
+item {
+  id: 106
+  name: '106_milk'
+}
+
+item {
+  id: 107
+  name: '107_milk'
+}
+
+item {
+  id: 108
+  name: '108_canned_food'
+}
+
+item {
+  id: 109
+  name: '109_canned_food'
+}
+
+item {
+  id: 110
+  name: '110_canned_food'
+}
+
+item {
+  id: 111
+  name: '111_canned_food'
+}
+
+item {
+  id: 112
+  name: '112_canned_food'
+}
+
+item {
+  id: 113
+  name: '113_canned_food'
+}
+
+item {
+  id: 114
+  name: '114_canned_food'
+}
+
+item {
+  id: 115
+  name: '115_canned_food'
+}
+
+item {
+  id: 116
+  name: '116_canned_food'
+}
+
+item {
+  id: 117
+  name: '117_canned_food'
+}
+
+item {
+  id: 118
+  name: '118_canned_food'
+}
+
+item {
+  id: 119
+  name: '119_canned_food'
+}
+
+item {
+  id: 120
+  name: '120_canned_food'
+}
+
+item {
+  id: 121
+  name: '121_canned_food'
+}
+
+item {
+  id: 122
+  name: '122_chocolate'
+}
+
+item {
+  id: 123
+  name: '123_chocolate'
+}
+
+item {
+  id: 124
+  name: '124_chocolate'
+}
+
+item {
+  id: 125
+  name: '125_chocolate'
+}
+
+item {
+  id: 126
+  name: '126_chocolate'
+}
+
+item {
+  id: 127
+  name: '127_chocolate'
+}
+
+item {
+  id: 128
+  name: '128_chocolate'
+}
+
+item {
+  id: 129
+  name: '129_chocolate'
+}
+
+item {
+  id: 130
+  name: '130_chocolate'
+}
+
+item {
+  id: 131
+  name: '131_chocolate'
+}
+
+item {
+  id: 132
+  name: '132_chocolate'
+}
+
+item {
+  id: 133
+  name: '133_chocolate'
+}
+
+item {
+  id: 134
+  name: '134_gum'
+}
+
+item {
+  id: 135
+  name: '135_gum'
+}
+
+item {
+  id: 136
+  name: '136_gum'
+}
+
+item {
+  id: 137
+  name: '137_gum'
+}
+
+item {
+  id: 138
+  name: '138_gum'
+}
+
+item {
+  id: 139
+  name: '139_gum'
+}
+
+item {
+  id: 140
+  name: '140_gum'
+}
+
+item {
+  id: 141
+  name: '141_gum'
+}
+
+item {
+  id: 142
+  name: '142_candy'
+}
+
+item {
+  id: 143
+  name: '143_candy'
+}
+
+item {
+  id: 144
+  name: '144_candy'
+}
+
+item {
+  id: 145
+  name: '145_candy'
+}
+
+item {
+  id: 146
+  name: '146_candy'
+}
+
+item {
+  id: 147
+  name: '147_candy'
+}
+
+item {
+  id: 148
+  name: '148_candy'
+}
+
+item {
+  id: 149
+  name: '149_candy'
+}
+
+item {
+  id: 150
+  name: '150_candy'
+}
+
+item {
+  id: 151
+  name: '151_candy'
+}
+
+item {
+  id: 152
+  name: '152_seasoner'
+}
+
+item {
+  id: 153
+  name: '153_seasoner'
+}
+
+item {
+  id: 154
+  name: '154_seasoner'
+}
+
+item {
+  id: 155
+  name: '155_seasoner'
+}
+
+item {
+  id: 156
+  name: '156_seasoner'
+}
+
+item {
+  id: 157
+  name: '157_seasoner'
+}
+
+item {
+  id: 158
+  name: '158_seasoner'
+}
+
+item {
+  id: 159
+  name: '159_seasoner'
+}
+
+item {
+  id: 160
+  name: '160_seasoner'
+}
+
+item {
+  id: 161
+  name: '161_seasoner'
+}
+
+item {
+  id: 162
+  name: '162_seasoner'
+}
+
+item {
+  id: 163
+  name: '163_seasoner'
+}
+
+item {
+  id: 164
+  name: '164_personal_hygiene'
+}
+
+item {
+  id: 165
+  name: '165_personal_hygiene'
+}
+
+item {
+  id: 166
+  name: '166_personal_hygiene'
+}
+
+item {
+  id: 167
+  name: '167_personal_hygiene'
+}
+
+item {
+  id: 168
+  name: '168_personal_hygiene'
+}
+
+item {
+  id: 169
+  name: '169_personal_hygiene'
+}
+
+item {
+  id: 170
+  name: '170_personal_hygiene'
+}
+
+item {
+  id: 171
+  name: '171_personal_hygiene'
+}
+
+item {
+  id: 172
+  name: '172_personal_hygiene'
+}
+
+item {
+  id: 173
+  name: '173_personal_hygiene'
+}
+
+item {
+  id: 174
+  name: '174_tissue'
+}
+
+item {
+  id: 175
+  name: '175_tissue'
+}
+
+item {
+  id: 176
+  name: '176_tissue'
+}
+
+item {
+  id: 177
+  name: '177_tissue'
+}
+
+item {
+  id: 178
+  name: '178_tissue'
+}
+
+item {
+  id: 179
+  name: '179_tissue'
+}
+
+item {
+  id: 180
+  name: '180_tissue'
+}
+
+item {
+  id: 181
+  name: '181_tissue'
+}
+
+item {
+  id: 182
+  name: '182_tissue'
+}
+
+item {
+  id: 183
+  name: '183_tissue'
+}
+
+item {
+  id: 184
+  name: '184_tissue'
+}
+
+item {
+  id: 185
+  name: '185_tissue'
+}
+
+item {
+  id: 186
+  name: '186_tissue'
+}
+
+item {
+  id: 187
+  name: '187_tissue'
+}
+
+item {
+  id: 188
+  name: '188_tissue'
+}
+
+item {
+  id: 189
+  name: '189_tissue'
+}
+
+item {
+  id: 190
+  name: '190_tissue'
+}
+
+item {
+  id: 191
+  name: '191_tissue'
+}
+
+item {
+  id: 192
+  name: '192_tissue'
+}
+
+item {
+  id: 193
+  name: '193_tissue'
+}
+
+item {
+  id: 194
+  name: '194_stationery'
+}
+
+item {
+  id: 195
+  name: '195_stationery'
+}
+
+item {
+  id: 196
+  name: '196_stationery'
+}
+
+item {
+  id: 197
+  name: '197_stationery'
+}
+
+item {
+  id: 198
+  name: '198_stationery'
+}
+
+item {
+  id: 199
+  name: '199_stationery'
+}
+
+item {
+  id: 200
+  name: '200_stationery'
+}
+

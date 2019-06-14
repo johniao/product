@@ -1,0 +1,25 @@
+item {
+  id: 1
+  name: '74_drink'
+}
+
+item {
+  id: 2
+  name: '75_drink'
+}
+
+item {
+  id: 3
+  name: '76_drink'
+}
+
+item {
+  id: 4
+  name: '77_drink'
+}
+
+item {
+  id: 5
+  name: '78_drink'
+}
+
