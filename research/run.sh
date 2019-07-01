@@ -12,8 +12,9 @@ export PYTHONPATH=$PYTHONPATH:$DIR:$DIR/slim:$DIR/object_detection
 output_dir=/output  # 训练目录
 dataset_dir=/data/lg50854656/product # 数据集目录，这里是写死的，记得修改
 
-train_dir=$output_dir/train
+model_dir=$output_dir
 checkpoint_dir=$train_dir
+NUM_TRAIN_STEPS = 200000
 eval_dir=$output_dir/eval
 
 # config文件
@@ -35,7 +36,7 @@ do
     sed -i "s/^  num_steps: $last$/  num_steps: $current/g" $pipeline_config_path  # 通过num_steps控制一次训练最多100step
 
     echo "############" $i "training #################"
-    python ./object_detection/model_main.py --train_dir=$train_dir --pipeline_config_path=$pipeline_config_path
+    python ./object_detection/model_main.py --model_dir=$model_dir --pipeline_config_path=$pipeline_config_path --num_train_steps=$NUM_TRAIN_STEPS
 
 done
 
