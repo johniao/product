@@ -36,7 +36,7 @@ do
     sed -i "s/^  num_steps: $last$/  num_steps: $current/g" $pipeline_config_path  # 通过num_steps控制一次训练最多100step
 
     echo "############" $i "training #################"
-    python ./object_detection/model_main.py --model_dir=$model_dir --pipeline_config_path=$pipeline_config_path --num_train_steps=$NUM_TRAIN_STEPS
+    python ./object_detection/model_main.py --model_dir=$model_dir --pipeline_config_path=$pipeline_config_path --num_train_steps=200000
 
 done
 
